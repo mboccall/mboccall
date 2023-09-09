@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
 - 👨‍💻 Trainee in Data Engineering at Compass.Uol
-- 💻 Bachelor's degree student in Data Science at Univesp
+- 💻 Studying BS in Data Science at Univesp
 - 🎓 Mechanical Engineer - Unesp
 - 📌 I enjoy board games and reading
 - 🎢 I'm a big fan of roller coasters
