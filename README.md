@@ -1,18 +1,17 @@
-### Olá, sou Marcio Boccalletti 👋 Explorando novas tecnologias!
+### Hi, I'm Marcio Boccalletti 👋 Exploring new technologies!
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
-- 👨‍💻 Estagiário em Engenharia de dados na Compass.Uol
-- 💻 Estudo Ciências de dados na Univesp
-- 🎓 Formado em Engenharia Mecânica pela Unesp
-- 📌 Gosto de jogos de tabuleiro
-- 📕 Adoro ler
-- 🎢 Apaixonado por montanha russa
-- 🏃 Pratico corrida de montanha
-- 🧘🏼‍♂️ Professor de Power Yoga
+- 👨‍💻 Trainee in Data Engineer at Compass.Uol
+- 💻 Student in Data Science Bachelor at Univesp
+- 🎓 Mechanical Engineer - Unesp
+- 📌 I like board games and reading
+- 🎢 I love roller coasters
+- 🏃 I'm trail runner
+- 🧘🏼‍♂️ I'm Power Yoga teacher
 
 
-**linguagens e ferramentas:**  
+**languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -24,7 +23,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"></code>
 <br/>
 
-#### Contatos
+#### Contacts
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/marcioboccalletti/)
 [![Medium](https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=medium&logoColor=FF00F6&color:FFF)](https://medium.com/@marcioboccalletti)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/in/mboccalletti/)
