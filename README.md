@@ -1,6 +1,8 @@
 ### Hi, I'm Marcio Boccalletti 👋 Exploring new technologies!
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+<br/>
  
 - 👨‍💻 Trainee in Data Engineering at Compass.Uol
 - 💻 Studying BS in Data Science at Univesp
