@@ -30,11 +30,11 @@
 <br/>
 
 #### Contacts
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/marcioboccalletti/)
-[![Medium](https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=medium&logoColor=FF00F6&color:FFF)](https://medium.com/@marcioboccalletti)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/in/mboccalletti/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0891b2&color:FFF)](https://www.linkedin.com/in/marcioboccalletti/)
+[![Medium](https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=medium&logoColor=0891b2&color:FFF)](https://medium.com/@marcioboccalletti)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0891b2&color:FFF)](https://www.instagram.com/in/mboccalletti/)
 
 <br/>
   📈 my github stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mboccall&show_icons=true&theme=gotham" alt="mboccall" />
+<a href="http://www.github.com/mboccall"><img src="https://github-readme-stats.vercel.app/api?username=mboccall&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mboccall's GitHub stats" /></a>
