@@ -1,4 +1,4 @@
-### Hi, I'm Marcio Boccalletti ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Exploring new technologies!
+### Hi, I'm Marcio Boccalletti! Exploring new technologies!
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="288" />
 
