@@ -4,8 +4,7 @@
 
 <br/>
  
-- 👨‍💻 Trainee in Data Engineering at Compass.Uol
-- 💻 Studying BS in Data Science at Univesp (3rd semester)
+- 💻 Studying BS in Data Science at Univesp (4rd semester)
 - 🛡️ Cibersecurity enthusiast
 - 📊 Google Data Analytics Certificate
 - 🎓 Mechanical Engineer - Unesp
