@@ -4,7 +4,7 @@
 
 <br/>
  
-- 💻 Studying BS in Data Science at Univesp (4rd semester)
+- 💻 Studying BS in Data Science at Univesp (12nd semester)
 - 🛡️ Cibersecurity enthusiast
 - 📊 Google Data Analytics Certificate
 - 🎓 Mechanical Engineer - Unesp
@@ -28,6 +28,7 @@
 <code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
 <code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"></code>
 <code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></code>
 
 #### Contacts
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0891b2&color:FFF)](https://www.linkedin.com/in/marcioboccalletti/)
