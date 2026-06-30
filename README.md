@@ -4,7 +4,7 @@
 
 <br/>
  
-- 💻 Studying BS in Data Science at Univesp
+- 💻 Studying BS in Data Science and Data Analysis at Univesp
 - 🛡️ Cibersecurity enthusiast
 - 📊 Google Data Analytics Certificate
 - 🎓 Mechanical Engineer - Unesp
